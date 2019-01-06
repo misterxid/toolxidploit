@@ -130,17 +130,8 @@ clear
 sh pw+us.sh
 fi
 
-figlet MR_XID  | lolcat
+figlet SELAMAT DATANG  | lolcat
  
-echo                      " [•]===><===<>===><===<>===><===<>==><==[]"|lolcat
-echo                      " [•]Author   :  MR_XiD                  []"|lolcat
-echo                      " [•]Wa       :  083851312460            []"|lolcat
-echo                      " [•]thanks to: I T A                    []"|lolcat
-echo                      " [•]Thansk to: L4EFY                    []"|lolcat
-echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
-echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
-echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
-
 clear
 echo "tunggu sebentar... /";
 sleep 0.1;
@@ -185,6 +176,18 @@ echo "tunggu sebentAr... /";
 sleep 0.1;
 clear
 sleep 2
+
+figlet MR_XID  | lolcat
+ 
+echo                      " [•]===><===<>===><===<>===><===<>==><==[]"|lolcat
+echo                      " [•]Author   :  MR_XiD                  []"|lolcat
+echo                      " [•]Wa       :  083851312460            []"|lolcat
+echo                      " [•]thanks to: I T A                    []"|lolcat
+echo                      " [•]Thansk to: L4EFY                    []"|lolcat
+echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
+echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
+echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
+
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
 echo    " (1. Info tool "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
