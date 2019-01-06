@@ -94,10 +94,10 @@ yellow='\033[33;1m'
 clear
 toilet -f big -F gay "LOGIN TOOL"
 echo ""
-echo $yellow"MASUKAN USERNAME"
+echo $green"MASUKAN USERNAME"
 echo $green"Whatsapp : 083851312460 Jika usr salah"
 echo ""
-echo $blue"USR NAME"
+echo $green"USR NAME"
 read -p"Masukan Username: " us
 if [ $us = "xidploit" ];then
 sleep 1
@@ -114,7 +114,7 @@ fi
 toilet -f big -F gay "LOGIN TOOL"
 echo ""
 echo $green"Masukan paswordnya bro"
-echo $yellow"Whastapp : 083851312460 jika pasword salah"
+echo $green"Whastapp : 083851312460 jika pasword salah"
 echo ""
 echo $red"PASWORD"
 read -p"Masukan Password: " pw
@@ -204,6 +204,8 @@ echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    " (7. Tool TUAN B4DUT V3"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    " (8. TOOL Cyb3r gh0st "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    " (9. TOOL TU4N N1CKN4M3"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 read -p "(pilih nomornya>" sf;
 
@@ -315,6 +317,13 @@ pkg install git
 git clone https://github.com/cyberghost69/bima-bagus-jabang-v3
 cd bima-bagus-jabang-v3
 sh bima-bagus-jabang-v3.sh
+fi 
+if [ $sf = 9 ] || [ $sf = 9 ]
+then 
+clear
+git clone https://github.com/TU4NN1CKN4M3/TOOLSv2
+cd TOOLSv2
+sh TU4NN1CKN4M3.sh
 sleep 1
 exit
 fi
